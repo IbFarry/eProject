@@ -16,11 +16,11 @@ Project title: ORAL HEALTH
                             Tăng Ngọc Duy Anh               Student1286089 
 ============================
 
-eProject documentation at https://github.com/IbFarry/eProject1/tree/main/review
+eProject documentation at https://github.com/IbFarry/eProject/tree/main/review
 
 ============================
 
-eProject published at https://ibfarry.github.io/eProject1/index.html
+eProject published at https://ibfarry.github.io/eProject/index.html
 
 ============================
 
